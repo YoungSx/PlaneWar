@@ -1,0 +1,10 @@
+#mycanvas{
+	margin:0px;
+	padding:0px;
+	background-image:url("..//Images/bg_01.jpg");
+}
+body,html{
+	margin:0px;
+	width:350px;
+	height:500px;
+}
